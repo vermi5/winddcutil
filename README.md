@@ -5,7 +5,7 @@ It has been tested on my own unit running firmware MCM103, should also work on p
 
 ## Installation
 
-Download the zip archive from Releases and unzip its two contained files to the same directory.
+Download the zip archive from [Releases]([url](https://github.com/vermi5/winddcutil/releases)) and unzip its two contained files to the same directory.
 
 ## Usage
 
