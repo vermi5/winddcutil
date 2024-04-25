@@ -1,7 +1,7 @@
 # PG32UCDM Pixel Cleaning script
 
 This is a script based on winddcutil that executes a pixel cleaning routine for the ASUS ROG Swift PG32UCDM.
-It has been tested on my own unit running firmware MCM103, should also work on previous verions but it's unconfirmed. 
+It has been tested on my own unit running firmware MCM103, should also work on previous versions but it's unconfirmed. 
 
 ## Installation
 
