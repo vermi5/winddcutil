@@ -9,7 +9,7 @@ Download the zip archive from Releases and unzip its two contained files to the 
 
 ## Usage
 
-Run PixelClean.bat, it will:
+Run PixelClean.cmd, it will:
 
 - Read your current windows power plan monitor timeout.
 - Detect your windows display number for the PG32UCDM.
