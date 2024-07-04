@@ -6,7 +6,8 @@ It has been tested on a couple units running firmware MCM103, beta MCM104, and M
 ## Installation
 
 Download the zip archive from [Releases](https://github.com/vermi5/winddcutil/releases) and unzip its two contained files to the same directory.
-*Having your windows [monitor drivers]([url](https://rog.asus.com/monitors/27-to-31-5-inches/rog-swift-oled-pg32ucdm/helpdesk_download/)) installed will help with ID'ing*
+
+*Having your windows [monitor drivers](https://rog.asus.com/monitors/27-to-31-5-inches/rog-swift-oled-pg32ucdm/helpdesk_download/) installed will help with ID'ing*
 ## Usage
 
 Run PixelClean.cmd, it will:
