@@ -1,6 +1,6 @@
 # PG32UCDM Pixel Cleaning script
 
-This is a windows batch script based on winddcutil that executes a pixel cleaning routine for the ASUS ROG Swift PG32UCDM.
+This is a windows batch/visual basic script based on winddcutil that executes a pixel cleaning routine for the ASUS ROG Swift PG32UCDM.
 It has been tested on a couple units running firmware MCM103, beta MCM104, and MCM 105. It should also work on previous versions but it's unconfirmed. 
 
 ## Installation
@@ -10,7 +10,7 @@ Download the zip archive from [Releases](https://github.com/vermi5/winddcutil/re
 *Having your windows [monitor drivers](https://rog.asus.com/monitors/27-to-31-5-inches/rog-swift-oled-pg32ucdm/helpdesk_download/) installed will help with ID'ing*
 ## Usage
 
-Run PixelClean.cmd, it will:
+Run PixelClean.cmd/PixelCleanv2.vbs, it will:
 
 - Read your current windows power plan monitor timeout.
 - Detect your windows display number for the PG32UCDM.
