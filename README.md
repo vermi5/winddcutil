@@ -25,7 +25,7 @@ Run `PixelClean.cmd` / `PixelCleanv2.vbs`. It will:
 - Get your current settings stored in the same address used for pixel cleaning.
 - Set your Windows power plan monitor timeout to 10 minutes.
 - Write the corrected value to that same address. This will black the screen out, and the logo should blink several times to indicate the cleaning has started. It takes around 6 minutes.
-- Once it's done, if it took less than 6 minutes, it will wait for that period to elapse, restore your previous Windows monitor timeout and exit.
+- Once it's done, if it took less than 6 minutes, it will wait for that period to elapse, restore your previous Windows monitor timeout exactly as it was — including "Never" — and exit.
 
 If Windows didn't detect user input (a random keypress or moving the mouse) while the cleaning was under way, and your previous timeout has elapsed, that will probably result in the monitor entering sleep.
 
