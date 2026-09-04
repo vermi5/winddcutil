@@ -4,7 +4,7 @@
 
 Releases of the PG32UCDM pixel cleaning script. The `winddcutil` program itself is unchanged from upstream.
 
-### [v0.3] - Unreleased
+### [v0.3] - 2026-09-04
 
 #### Fixed
 
